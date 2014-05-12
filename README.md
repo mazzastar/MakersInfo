@@ -1,5 +1,19 @@
-MakersInfo
+Meetups/Events of Interest
 ==========
+Silicon Milkroundabout
+http://www.siliconmilkround.com
+
+Hacker News
+http://www.meetup.com/HNLondon/
+
+London Software Craftmanship
+http://www.meetup.com/london-software-craftsmanship/
+
+Hackathons & Jams 
+http://www.meetup.com/UK-Hackathons-and-Jams/
+
+
+
 Late Night Working
 ==========
 Some places to work late nearby or slightly further afield: 
@@ -42,3 +56,4 @@ Sat 8:00 - 1:00. Sun 9:00 - 7:00
 http://www.shoreditchgrind.com
 
 Comments: No wifi in the evening.
+
